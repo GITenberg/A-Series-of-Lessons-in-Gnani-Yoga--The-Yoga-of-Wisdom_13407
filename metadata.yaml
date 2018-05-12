@@ -20,6 +20,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/t#a5407
 description: This book is a collection of practical lessons on Gnani yoga, also known
   as the yoga of wisdom.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13407#A-Series-of-Lessons-in-Gnani-Yoga--The-Yoga-of-Wisdom
 gutenberg_bookshelf: Hinduism
 gutenberg_issued: '2004-09-09'
 gutenberg_type: Text
